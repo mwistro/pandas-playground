@@ -22,7 +22,7 @@ The goal is to improve my skills and build a portfolio of data analysis examples
 ## ⚙️ Technologies  
 - Python  
 - Pandas   
-- Plotly (for visualization)  
+- Plotly
 
 ---
 
