@@ -14,7 +14,7 @@ The goal is to improve my skills and build a portfolio of data analysis examples
 
 - **Customer Cancellation Analysis** → Exploring possible reasons why customers cancel their credit cards.
 
-- **Hotel Reservations Data Cleaning** → Identifying, cleaning, and handling null and duplicate values from a hotel reservations dataset to prepare it for further analysis.  
+- **Hotel Reservations Data Cleaning** → Identifying, cleaning, and handling null and duplicate values from a hotel reservations dataset, and creating new columns to prepare it for further analysis.  
 
 
 (📌 More projects will be added as I keep learning!)  
